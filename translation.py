@@ -35,8 +35,8 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: Free Cloned User
-Expires on: Never Thanks😎"""
+Plan name: Free 
+Expires on: Never Thanks @Aditya1190 😎"""
     HELP_USER = """Hai am URL Uploader bot..
     
 1. Send url (Link|New Name with Extension).
@@ -47,7 +47,7 @@ Expires on: Never Thanks😎"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-Made By @Aditya1190😎
+Made By @Aditya1190 😎
 
 --------
 Send /me to know current plan details
